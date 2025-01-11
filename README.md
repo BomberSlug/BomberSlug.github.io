@@ -1,2 +1,1 @@
-@phalit
-# BomberSlug.github.io
+# lol
